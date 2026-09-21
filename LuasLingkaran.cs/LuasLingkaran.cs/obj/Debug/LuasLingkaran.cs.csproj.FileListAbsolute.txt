@@ -1,0 +1,7 @@
+D:\MUHAMMAD ABDUL ROZAQ X PPLG 2\LuasLingkaran.cs\LuasLingkaran.cs\bin\Debug\LuasLingkaran.cs.exe.config
+D:\MUHAMMAD ABDUL ROZAQ X PPLG 2\LuasLingkaran.cs\LuasLingkaran.cs\bin\Debug\LuasLingkaran.cs.exe
+D:\MUHAMMAD ABDUL ROZAQ X PPLG 2\LuasLingkaran.cs\LuasLingkaran.cs\bin\Debug\LuasLingkaran.cs.pdb
+D:\MUHAMMAD ABDUL ROZAQ X PPLG 2\LuasLingkaran.cs\LuasLingkaran.cs\obj\Debug\LuasLingkaran.cs.csproj.AssemblyReference.cache
+D:\MUHAMMAD ABDUL ROZAQ X PPLG 2\LuasLingkaran.cs\LuasLingkaran.cs\obj\Debug\LuasLingkaran.cs.csproj.CoreCompileInputs.cache
+D:\MUHAMMAD ABDUL ROZAQ X PPLG 2\LuasLingkaran.cs\LuasLingkaran.cs\obj\Debug\LuasLingkaran.cs.exe
+D:\MUHAMMAD ABDUL ROZAQ X PPLG 2\LuasLingkaran.cs\LuasLingkaran.cs\obj\Debug\LuasLingkaran.cs.pdb

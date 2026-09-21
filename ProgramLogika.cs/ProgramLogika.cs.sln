@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramLogika.cs", "ProgramLogika.cs\ProgramLogika.cs.csproj", "{68668007-0F55-46DE-9F42-79837BE71A10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68668007-0F55-46DE-9F42-79837BE71A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68668007-0F55-46DE-9F42-79837BE71A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68668007-0F55-46DE-9F42-79837BE71A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68668007-0F55-46DE-9F42-79837BE71A10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {490D3EC5-05EB-40BB-844A-1B67A73E0A2A}
+	EndGlobalSection
+EndGlobal
