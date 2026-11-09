@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pencarian_data", "Pencarian_data.csproj", "{4DB24575-3278-466F-B1C5-A05F7C05248A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DB24575-3278-466F-B1C5-A05F7C05248A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB24575-3278-466F-B1C5-A05F7C05248A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB24575-3278-466F-B1C5-A05F7C05248A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB24575-3278-466F-B1C5-A05F7C05248A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCA0DDC9-B1DB-4ACC-BF89-8108BB59CCA6}
+	EndGlobalSection
+EndGlobal
